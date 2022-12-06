@@ -4,6 +4,7 @@ This GitHub repository shows how we built our Sentiment Analyzer app step by ste
 
 This app was created using Google Colab, Python and Streamlit.
 
-You can use "Spotify.csv" and "movie_reviews.csv" to test the app. 
+You can find "Spotify.csv" and "movie_reviews.csv" csv files in "Releases" section for download and testing.
 
-You can find both of these csv files in "Releases" section for download and testing.
+
+*Important -> We need the "movie_review.csv" to test our Supervised Models. This csv file is over 25mb, due to this we decided to host the file as a public rlease. This method will allow users to download and access both of our testing csv files "Spotify.csv" and "movie_reviews.csv".
